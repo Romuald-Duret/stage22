@@ -1,0 +1,1482 @@
+{
+    "0": {
+        "station_name": 1,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 2.892,
+            "woman_13-34": 2.321,
+            "man_34-65": 2.905,
+            "woman_34-65": 1.438,
+            "man+65": 1.771,
+            "woman+65": 0.562
+        },
+        "slots": {
+            "normal_1": {
+                "price": 199,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 218,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 238,
+                "available": "1"
+            },
+            "normal_4": {
+                "price": 258,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 199,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 22:43:07",
+        "delay": 78,
+        "remaining_time": 38
+    },
+    "1": {
+        "station_name": 10,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.221,
+            "woman_13-34": 2.124,
+            "man_34-65": 0.249,
+            "woman_34-65": 1.267,
+            "man+65": 1.505,
+            "woman+65": 0.807
+        },
+        "slots": {
+            "normal_1": {
+                "price": 390,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 429,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 468,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 507,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 390,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-02-27 14:12:12",
+        "delay": 119,
+        "remaining_time": 67
+    },
+    "2": {
+        "station_name": 2,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.684,
+            "woman_13-34": 1.827,
+            "man_34-65": 0.448,
+            "woman_34-65": 0.591,
+            "man+65": 1.593,
+            "woman+65": 1.49
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1344,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 1478,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 1613,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 1747,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 1344,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-02-18 10:21:41",
+        "delay": 93,
+        "remaining_time": 56
+    },
+    "3": {
+        "station_name": 8,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 2.456,
+            "woman_13-34": 0.952,
+            "man_34-65": 0.717,
+            "woman_34-65": 0.584,
+            "man+65": 2.677,
+            "woman+65": 0.763
+        },
+        "slots": {
+            "normal_1": {
+                "price": 343,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 377,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 411,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 446,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 343,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-01-03 17:42:42",
+        "delay": 142,
+        "remaining_time": 18
+    },
+    "4": {
+        "station_name": 11,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.177,
+            "woman_13-34": 2.695,
+            "man_34-65": 2.871,
+            "woman_34-65": 1.533,
+            "man+65": 0.208,
+            "woman+65": 2.181
+        },
+        "slots": {
+            "normal_1": {
+                "price": 159,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 175,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 190,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 206,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 159,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-12-10 08:26:54",
+        "delay": 74,
+        "remaining_time": 29
+    },
+    "5": {
+        "station_name": 12,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 2.2,
+            "woman_13-34": 1.492,
+            "man_34-65": 1.487,
+            "woman_34-65": 0.138,
+            "man+65": 1.624,
+            "woman+65": 0.189
+        },
+        "slots": {
+            "normal_1": {
+                "price": 823,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 906,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 988,
+                "available": "1"
+            },
+            "normal_4": {
+                "price": 1070,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 823,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-11-22 06:14:54",
+        "delay": 105,
+        "remaining_time": 46
+    },
+    "6": {
+        "station_name": 0,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.704,
+            "woman_13-34": 1.146,
+            "man_34-65": 1.659,
+            "woman_34-65": 2.641,
+            "man+65": 0.032,
+            "woman+65": 1.496
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1871,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 2058,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 2245,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 2432,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 1871,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-01-10 22:33:25",
+        "delay": 96,
+        "remaining_time": 48
+    },
+    "7": {
+        "station_name": 1,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.45,
+            "woman_13-34": 1.259,
+            "man_34-65": 1.31,
+            "woman_34-65": 0.064,
+            "man+65": 2.359,
+            "woman+65": 2.083
+        },
+        "slots": {
+            "normal_1": {
+                "price": 934,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 1027,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 1120,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 1214,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 934,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-11-21 05:47:50",
+        "delay": 77,
+        "remaining_time": 62
+    },
+    "8": {
+        "station_name": 7,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.751,
+            "woman_13-34": 2.775,
+            "man_34-65": 1.595,
+            "woman_34-65": 1.834,
+            "man+65": 2.974,
+            "woman+65": 2.272
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1305,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 1436,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 1567,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 1697,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 1305,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-11-21 20:33:47",
+        "delay": 168,
+        "remaining_time": 94
+    },
+    "9": {
+        "station_name": 17,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 1.297,
+            "woman_13-34": 2.438,
+            "man_34-65": 2.45,
+            "woman_34-65": 1.85,
+            "man+65": 1.611,
+            "woman+65": 0.656
+        },
+        "slots": {
+            "normal_1": {
+                "price": 92,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 101,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 110,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 119,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 92,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 20:39:40",
+        "delay": 80,
+        "remaining_time": 49
+    },
+    "10": {
+        "station_name": 17,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.734,
+            "woman_13-34": 2.521,
+            "man_34-65": 0.423,
+            "woman_34-65": 1.658,
+            "man+65": 2.506,
+            "woman+65": 2.388
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1065,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 1172,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 1279,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 1385,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 1065,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-01-08 20:26:01",
+        "delay": 88,
+        "remaining_time": 4
+    },
+    "11": {
+        "station_name": 4,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.297,
+            "woman_13-34": 0.01,
+            "man_34-65": 2.277,
+            "woman_34-65": 2.467,
+            "man+65": 1.301,
+            "woman+65": 2.806
+        },
+        "slots": {
+            "normal_1": {
+                "price": 2129,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 2342,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 2555,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 2768,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 2129,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-01-01 05:10:58",
+        "delay": 140,
+        "remaining_time": 14
+    },
+    "12": {
+        "station_name": 12,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 1.372,
+            "woman_13-34": 2.407,
+            "man_34-65": 2.628,
+            "woman_34-65": 2.069,
+            "man+65": 0.897,
+            "woman+65": 1.306
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1345,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 1480,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 1614,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 1749,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 1345,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 21:32:14",
+        "delay": 52,
+        "remaining_time": 45
+    },
+    "13": {
+        "station_name": 16,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.676,
+            "woman_13-34": 1.101,
+            "man_34-65": 1.99,
+            "woman_34-65": 1.739,
+            "man+65": 0.007,
+            "woman+65": 0.405
+        },
+        "slots": {
+            "normal_1": {
+                "price": 417,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 459,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 501,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 543,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 417,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-02-23 10:59:06",
+        "delay": 143,
+        "remaining_time": 59
+    },
+    "14": {
+        "station_name": 1,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 2.746,
+            "woman_13-34": 0.656,
+            "man_34-65": 0.898,
+            "woman_34-65": 0.227,
+            "man+65": 0.742,
+            "woman+65": 2.329
+        },
+        "slots": {
+            "normal_1": {
+                "price": 195,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 215,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 235,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 254,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 195,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-02-27 19:35:26",
+        "delay": 60,
+        "remaining_time": 16
+    },
+    "15": {
+        "station_name": 20,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 0.473,
+            "woman_13-34": 0.835,
+            "man_34-65": 1.858,
+            "woman_34-65": 0.605,
+            "man+65": 0.856,
+            "woman+65": 0.858
+        },
+        "slots": {
+            "normal_1": {
+                "price": 3948,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 4343,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 4738,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 5133,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 3948,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 21:23:18",
+        "delay": 99,
+        "remaining_time": 79
+    },
+    "16": {
+        "station_name": 7,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 2.728,
+            "woman_13-34": 0.247,
+            "man_34-65": 1.035,
+            "woman_34-65": 1.718,
+            "man+65": 2.752,
+            "woman+65": 2.778
+        },
+        "slots": {
+            "normal_1": {
+                "price": 8909,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 9800,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 10691,
+                "available": "1"
+            },
+            "normal_4": {
+                "price": 11582,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 8909,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-01-05 20:52:41",
+        "delay": 151,
+        "remaining_time": 71
+    },
+    "17": {
+        "station_name": 20,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.987,
+            "woman_13-34": 2.571,
+            "man_34-65": 2.079,
+            "woman_34-65": 1.401,
+            "man+65": 1.481,
+            "woman+65": 1.448
+        },
+        "slots": {
+            "normal_1": {
+                "price": 367,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 404,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 441,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 478,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 367,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-02-17 00:38:26",
+        "delay": 75,
+        "remaining_time": 47
+    },
+    "18": {
+        "station_name": 6,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 0.554,
+            "woman_13-34": 0.36,
+            "man_34-65": 1.266,
+            "woman_34-65": 2.689,
+            "man+65": 2.203,
+            "woman+65": 0.601
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1166,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 1283,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 1400,
+                "available": "1"
+            },
+            "normal_4": {
+                "price": 1516,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 1166,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 20:16:41",
+        "delay": 170,
+        "remaining_time": 161
+    },
+    "19": {
+        "station_name": 2,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.602,
+            "woman_13-34": 1.041,
+            "man_34-65": 0.498,
+            "woman_34-65": 1.411,
+            "man+65": 0.152,
+            "woman+65": 0.649
+        },
+        "slots": {
+            "normal_1": {
+                "price": 544,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 599,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 653,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 707,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 544,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-01-14 12:00:32",
+        "delay": 118,
+        "remaining_time": 86
+    },
+    "20": {
+        "station_name": 0,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.517,
+            "woman_13-34": 1.8,
+            "man_34-65": 0.562,
+            "woman_34-65": 0.934,
+            "man+65": 0.004,
+            "woman+65": 2.961
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1530,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 1683,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 1836,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 1989,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 1530,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-01-01 11:35:14",
+        "delay": 142,
+        "remaining_time": 34
+    },
+    "21": {
+        "station_name": 19,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 1.632,
+            "woman_13-34": 0.154,
+            "man_34-65": 2.732,
+            "woman_34-65": 1.603,
+            "man+65": 2.95,
+            "woman+65": 2.816
+        },
+        "slots": {
+            "normal_1": {
+                "price": 8765,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 9642,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 10518,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 11395,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 8765,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 22:35:40",
+        "delay": 174,
+        "remaining_time": 32
+    },
+    "22": {
+        "station_name": 0,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.924,
+            "woman_13-34": 2.701,
+            "man_34-65": 2.612,
+            "woman_34-65": 2.83,
+            "man+65": 1.498,
+            "woman+65": 0.639
+        },
+        "slots": {
+            "normal_1": {
+                "price": 674,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 742,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 809,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 877,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 674,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-12-18 11:25:28",
+        "delay": 175,
+        "remaining_time": 41
+    },
+    "23": {
+        "station_name": 3,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 0.897,
+            "woman_13-34": 2.811,
+            "man_34-65": 1.772,
+            "woman_34-65": 2.625,
+            "man+65": 2.935,
+            "woman+65": 0.525
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1656,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 1821,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 1987,
+                "available": "1"
+            },
+            "normal_4": {
+                "price": 2152,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 1656,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 21:43:06",
+        "delay": 91,
+        "remaining_time": 16
+    },
+    "24": {
+        "station_name": 0,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.219,
+            "woman_13-34": 0.32,
+            "man_34-65": 2.676,
+            "woman_34-65": 2.975,
+            "man+65": 0.083,
+            "woman+65": 0.156
+        },
+        "slots": {
+            "normal_1": {
+                "price": 258,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 284,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 310,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 336,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 258,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-12-10 09:01:52",
+        "delay": 118,
+        "remaining_time": 4
+    },
+    "25": {
+        "station_name": 18,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.861,
+            "woman_13-34": 0.805,
+            "man_34-65": 2.044,
+            "woman_34-65": 0.108,
+            "man+65": 1.177,
+            "woman+65": 1.751
+        },
+        "slots": {
+            "normal_1": {
+                "price": 256,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 281,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 307,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 332,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 256,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-11-10 05:26:15",
+        "delay": 74,
+        "remaining_time": 59
+    },
+    "26": {
+        "station_name": 16,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 2.879,
+            "woman_13-34": 0.618,
+            "man_34-65": 2.43,
+            "woman_34-65": 0.788,
+            "man+65": 2.528,
+            "woman+65": 0.659
+        },
+        "slots": {
+            "normal_1": {
+                "price": 431,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 474,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 518,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 561,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 431,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 20:20:21",
+        "delay": 139,
+        "remaining_time": 120
+    },
+    "27": {
+        "station_name": 11,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 2.176,
+            "woman_13-34": 2.836,
+            "man_34-65": 0.709,
+            "woman_34-65": 2.212,
+            "man+65": 1.316,
+            "woman+65": 1.867
+        },
+        "slots": {
+            "normal_1": {
+                "price": 3600,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 3961,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 4321,
+                "available": "1"
+            },
+            "normal_4": {
+                "price": 4681,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 3600,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-02-14 09:30:08",
+        "delay": 169,
+        "remaining_time": 125
+    },
+    "28": {
+        "station_name": 5,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 0.237,
+            "woman_13-34": 2.898,
+            "man_34-65": 1.674,
+            "woman_34-65": 1.628,
+            "man+65": 1.912,
+            "woman+65": 1.52
+        },
+        "slots": {
+            "normal_1": {
+                "price": 633,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 696,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 759,
+                "available": "1"
+            },
+            "normal_4": {
+                "price": 823,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 633,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 20:00:08",
+        "delay": 144,
+        "remaining_time": 99
+    },
+    "29": {
+        "station_name": 16,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 2.397,
+            "woman_13-34": 1.452,
+            "man_34-65": 1.509,
+            "woman_34-65": 2.303,
+            "man+65": 1.233,
+            "woman+65": 2.071
+        },
+        "slots": {
+            "normal_1": {
+                "price": 183,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 202,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 220,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 238,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 183,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-11-16 13:08:20",
+        "delay": 71,
+        "remaining_time": 57
+    },
+    "30": {
+        "station_name": 9,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.626,
+            "woman_13-34": 0.322,
+            "man_34-65": 2.964,
+            "woman_34-65": 2.754,
+            "man+65": 2.287,
+            "woman+65": 0.686
+        },
+        "slots": {
+            "normal_1": {
+                "price": 536,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 590,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 644,
+                "available": "1"
+            },
+            "normal_4": {
+                "price": 697,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 536,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-12-23 14:48:49",
+        "delay": 83,
+        "remaining_time": 47
+    },
+    "31": {
+        "station_name": 19,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.517,
+            "woman_13-34": 0.439,
+            "man_34-65": 2.876,
+            "woman_34-65": 2.536,
+            "man+65": 0.815,
+            "woman+65": 1.615
+        },
+        "slots": {
+            "normal_1": {
+                "price": 765,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 842,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 919,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 995,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 765,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-12-13 15:45:20",
+        "delay": 140,
+        "remaining_time": 72
+    },
+    "32": {
+        "station_name": 18,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.957,
+            "woman_13-34": 2.724,
+            "man_34-65": 2.771,
+            "woman_34-65": 1.473,
+            "man+65": 1.516,
+            "woman+65": 2.752
+        },
+        "slots": {
+            "normal_1": {
+                "price": 8193,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 9012,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 9832,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 10651,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 8193,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-11-30 22:59:11",
+        "delay": 160,
+        "remaining_time": 54
+    },
+    "33": {
+        "station_name": 6,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.347,
+            "woman_13-34": 0.868,
+            "man_34-65": 0.738,
+            "woman_34-65": 1.534,
+            "man+65": 1.234,
+            "woman+65": 0.269
+        },
+        "slots": {
+            "normal_1": {
+                "price": 7305,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 8035,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 8766,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 9496,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 7305,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-12-22 20:33:21",
+        "delay": 152,
+        "remaining_time": 1
+    },
+    "34": {
+        "station_name": 17,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 1.23,
+            "woman_13-34": 1.445,
+            "man_34-65": 1.75,
+            "woman_34-65": 2.862,
+            "man+65": 2.78,
+            "woman+65": 1.995
+        },
+        "slots": {
+            "normal_1": {
+                "price": 11558,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 12714,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 13870,
+                "available": "1"
+            },
+            "normal_4": {
+                "price": 15026,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 11558,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 20:30:16",
+        "delay": 72,
+        "remaining_time": 64
+    },
+    "35": {
+        "station_name": 8,
+        "prime": "1",
+        "grp": {
+            "man_13-34": 1.113,
+            "woman_13-34": 0.89,
+            "man_34-65": 2.882,
+            "woman_34-65": 0.365,
+            "man+65": 0.617,
+            "woman+65": 2.243
+        },
+        "slots": {
+            "normal_1": {
+                "price": 629,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 692,
+                "available": "0"
+            },
+            "normal_3": {
+                "price": 755,
+                "available": "1"
+            },
+            "normal_4": {
+                "price": 818,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 629,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-03-01 22:47:07",
+        "delay": 62,
+        "remaining_time": 51
+    },
+    "36": {
+        "station_name": 3,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.166,
+            "woman_13-34": 1.873,
+            "man_34-65": 2.457,
+            "woman_34-65": 2.517,
+            "man+65": 1.715,
+            "woman+65": 1.659
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1245,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 1369,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 1494,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 1618,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 1245,
+                "available": "0"
+            }
+        },
+        "start_date": "2020-12-01 04:46:21",
+        "delay": 114,
+        "remaining_time": 0
+    },
+    "37": {
+        "station_name": 6,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.816,
+            "woman_13-34": 1.736,
+            "man_34-65": 2.156,
+            "woman_34-65": 1.784,
+            "man+65": 2.695,
+            "woman+65": 2.023
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1338,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 1472,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 1606,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 1740,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 1338,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-01-15 21:11:25",
+        "delay": 68,
+        "remaining_time": 51
+    },
+    "38": {
+        "station_name": 15,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 0.436,
+            "woman_13-34": 0.364,
+            "man_34-65": 2.064,
+            "woman_34-65": 1.486,
+            "man+65": 1.589,
+            "woman+65": 1.14
+        },
+        "slots": {
+            "normal_1": {
+                "price": 2097,
+                "available": "1"
+            },
+            "normal_2": {
+                "price": 2307,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 2517,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 2727,
+                "available": "0"
+            },
+            "normal_5": {
+                "price": 2097,
+                "available": "1"
+            }
+        },
+        "start_date": "2020-11-25 09:43:00",
+        "delay": 73,
+        "remaining_time": 54
+    },
+    "39": {
+        "station_name": 5,
+        "prime": "0",
+        "grp": {
+            "man_13-34": 1.129,
+            "woman_13-34": 2.668,
+            "man_34-65": 1.102,
+            "woman_34-65": 2.512,
+            "man+65": 2.808,
+            "woman+65": 0.712
+        },
+        "slots": {
+            "normal_1": {
+                "price": 1645,
+                "available": "0"
+            },
+            "normal_2": {
+                "price": 1810,
+                "available": "1"
+            },
+            "normal_3": {
+                "price": 1975,
+                "available": "0"
+            },
+            "normal_4": {
+                "price": 2139,
+                "available": "1"
+            },
+            "normal_5": {
+                "price": 1645,
+                "available": "1"
+            }
+        },
+        "start_date": "2021-02-08 22:45:32",
+        "delay": 149,
+        "remaining_time": 57
+    }
+}
